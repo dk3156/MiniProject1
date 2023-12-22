@@ -42,8 +42,6 @@ A 그룹은 주말 주문량에 대한 대비를 하여 서비스 품질이 유�
 ## 결론
 결과적으로 주문량이 많지 않은 식당은 차후 식당 서비스 품질 향상을 위하여 주말의 주문 금액, 음식 준비 시간, 평점을 주중과 비슷하게 유지시킬 것을 제안해 볼 수 있다.
 
-## 프레젠테이션
-https://docs.google.com/presentation/d/16L1qF36Wseo42485VwU35djB4T9uhWJnxSjnJUW9bYo/edit?usp=sharing
+## [프레젠테이션](https://docs.google.com/presentation/d/16L1qF36Wseo42485VwU35djB4T9uhWJnxSjnJUW9bYo/edit?usp=sharing)
 
-## 설명 영상
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_Ckgw3W1mrQ?si=BROD_enV1FQravnK/0.jpg)](https://youtu.be/_Ckgw3W1mrQ?si=325JIqpSP2eq7Lmq)
+## [설명영상](https://youtu.be/_Ckgw3W1mrQ?si=325JIqpSP2eq7Lmq)
