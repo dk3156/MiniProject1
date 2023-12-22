@@ -14,7 +14,7 @@ Kaggle 의 [nyc restaurant data - food ordering and delivery](https://www.kaggle
 - food_preparation_time: 조리 시간
 - delivery_time: 배달 시간
 
-## **food_orders.ipynb**
+## **[food_orders.ipynb](https://github.com/dk3156/NYC-Restaurant-Food-Ordering-and-Delivery-Data-Analysis/blob/main/food_orders.ipynb)**
 ### EDA
 
 데이터 전처리: 오타난 음식점 이름을 수정해 주었다. rating 의 not given 값을 np.nan 로 대체했다.
@@ -24,14 +24,14 @@ Kaggle 의 [nyc restaurant data - food ordering and delivery](https://www.kaggle
 주말이 주중보다 주문량이 평균 2배 이상 높다.
 
 
-## **AmericanStore.ipynb**
+## **[AmericanStore.ipynb](https://github.com/dk3156/NYC-Restaurant-Food-Ordering-and-Delivery-Data-Analysis/blob/main/AmericanStore.ipynb)**
 주문량, 고객수가 가장 많았던 미국 음식점 중심으로 고객 수 값과 평균 주문 금액(cost_of_the_order), 평균 음식 준비 시간(food_preparation_time), 평균 배달 시간(delivery_time) 의 상관계수를 계산했다. 
 
 그 결과 상관계수가 모두 0.06 이하로 크게 유의미한 관계는 보이지 않았다. 
 
 다른 나라의 음식점을 모두 포함해서 고객 수 상관계수를 계산했지만 큰 의미를 보이지 않았다. 
 
-## **DA_food_order.ipynb**
+## **[DA_food_order.ipynb](https://github.com/dk3156/NYC-Restaurant-Food-Ordering-and-Delivery-Data-Analysis/blob/main/DA_food_order.ipynb)**
 팀원들의 EDA 와 시각화를 합친 최종 결과물이다. 
 
 주문량이 많고 적은 식당을 비교 분석하기 위해 식당을 A, B, C 그룹으로 나누었다. 
