@@ -1,5 +1,18 @@
-Kaggle 의 nyc restaurant data - food ordering and delivery 데이터셋을 분석하고 시각화한 미니 프로젝트이다.
-pandas 라이브러리를 통해 데이터 EDA를 진행하고 matplotlib, seaborn, plotly 시각화를 통해 결과 해석 도출했다.
+Kaggle 의 [nyc restaurant data - food ordering and delivery](https://www.kaggle.com/code/ahsan81/nyc-restaurant-food-order-delivery-detailed-eda) 데이터셋을 분석하고 시각화한 미니 프로젝트이다.
+
+## 개요
+최근 배달 음식 플랫폼의 발전과 함께 배달 음식 문화가 보편화되었으며, 특급 호텔이나 고급 레스토랑에서도 배들 음식 판매를 확대하고 있으므로 배달 음식 시장은 더욱 고급화, 다양화되면서 발전하고 있다. 저희 뉴욕맛집 (B03) 팀은 pandas와 데이터 시각화 라이브러리를 통한 식당 별 주문량 차이 원인 분석하여 유의미한 데이터를 도출해보기로 했다. 
+
+## 데이터 속성
+- order_id: 주문 고유 ID
+- customer_id: 음식을 주문한 고객의 ID
+- restaurant_name: 식당 이름
+- cuisine_type: 음식 종류
+- cost_of_the_order: 주문 비용
+- day_of_the_week: 주문이 평일 또는 주말인지 여부
+- rating: 평점(5점 만점)
+- food_preparation_time: 조리 시간
+- delivery_time: 배달 시간
 
 ## **food_orders.ipynb**
 ### EDA
